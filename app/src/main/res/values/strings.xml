@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">SimpleTheGuardianApp</string>
+    <string name="change_type">Change type</string>
+    <string name="internet_message">Please, check an internet connection and try again.</string>
+    <string name="internet_title">No internet</string>
+    <string name="ok">OK</string>
+    <string name="something_went_wrong">Something went wrong, try later.</string>
+    <string name="no_title">No title</string>
+    <string name="no_category">No category</string>
+    <string name="new_article">New article is published !</string>
+    <string name="pinned">The articled has been pinned</string>
+    <string name="unpinned">The articled has been unpinned</string>
+    <string name="saved">The articled has been saved</string>
+    <string name="unsaved">The articled has been unsaved</string>
+    <string name="search">Search</string>
+</resources>
